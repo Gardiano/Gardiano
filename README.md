@@ -1,4 +1,4 @@
-## Gardiano 🏻💻
+## Gardiano 💻
 
  <div>
   <a href="https://github.com/Gardiano">
